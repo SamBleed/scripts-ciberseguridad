@@ -1,4 +1,4 @@
-# scripts-ciberseguridad
+# scripts-ciberseguridad #
 # Escáner simple de puertos
 
 Este script en Python realiza un escaneo básico de puertos en una IP específica, verificando cuáles están abiertos en el rango de 1 a 1024.
