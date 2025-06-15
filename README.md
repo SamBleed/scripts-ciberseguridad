@@ -1,5 +1,3 @@
-Perfecto, Nayiro. Aquí tienes tu `README.md` adaptado y mejorado para que tenga una presentación más profesional, clara y acorde al enfoque técnico del repositorio `scripts-ciberseguridad`, manteniendo tu estilo y agregando un formato moderno con emojis y secciones bien definidas:
-
 ---
 
 ````markdown
