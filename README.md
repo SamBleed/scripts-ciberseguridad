@@ -85,5 +85,3 @@ Puedes crear **issues** para reportar errores o sugerencias, o enviar un **pull 
 
 Este proyecto está bajo la licencia MIT. Consulta el archivo [`LICENSE.txt`](LICENSE.txt) para más información.
 
-```
-
