@@ -27,14 +27,13 @@ Repositorio con scripts útiles para pruebas, automatización y aprendizaje en *
 
 1. Clona el repositorio:
 
-   ```bash
    git clone https://github.com/SamBleed/scripts-ciberseguridad.git
    cd scripts-ciberseguridad
 ````
 
 2. *(Opcional)* Crea un entorno virtual de Python:
 
-   ```bash
+   ```
    python -m venv venv
    source venv/bin/activate      # Linux/macOS
    venv\Scripts\activate         # Windows
@@ -42,7 +41,7 @@ Repositorio con scripts útiles para pruebas, automatización y aprendizaje en *
 
 3. Instala dependencias si las hay:
 
-   ```bash
+   ```
    pip install -r requirements.txt
    ```
 
@@ -52,7 +51,7 @@ Repositorio con scripts útiles para pruebas, automatización y aprendizaje en *
 
 Cada script tiene su propia función. Puedes ejecutarlos de forma individual con:
 
-```bash
+```
 python nombre_del_script.py
 ```
 
